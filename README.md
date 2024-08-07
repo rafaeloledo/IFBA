@@ -1,1 +1,1 @@
-# Database course files of IFBA
+# Object Oriented Programming exam files

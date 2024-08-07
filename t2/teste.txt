@@ -1,2 +1,0 @@
-INSERT INTO MUNICIPIO (CodMunicipio, NomeMunicipio, CodEstado) 
-VALUES (290050, 'Érico Cardoso', 5);
