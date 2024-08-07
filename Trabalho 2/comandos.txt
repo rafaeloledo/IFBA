@@ -1,2 +1,0 @@
-gcc EstruturaVetores.c mainTeste.c -o t1
-gcc EstruturaVetores.c mainTeste.c -g

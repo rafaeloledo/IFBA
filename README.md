@@ -1,1 +1,1 @@
-# College files of Programming Laboratory in IFBA
+# Database course files of IFBA
